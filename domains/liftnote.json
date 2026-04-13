@@ -1,0 +1,10 @@
+{
+    "owner": {
+        "username": "ton_pseudo_github",
+        "email": "ton@email.com"
+    },
+    "record": {
+        "CNAME": "liftnote.infinityfreeapp.com"
+    },
+    "proxied": true
+}
